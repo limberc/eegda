@@ -1,0 +1,2 @@
+aria2c -x 10 -s 10 "https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/SMNI_CMI_TEST.tar.gz"
+aria2c -x 10 -s 10 "https://archive.ics.uci.edu/ml/machine-learning-databases/eeg-mld/SMNI_CMI_TRAIN.tar.gz"
